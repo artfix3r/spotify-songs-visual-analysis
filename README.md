@@ -75,3 +75,22 @@ jupyter notebook section06_visualizing_data_solutions.ipynb
 ---
 
 ## 📁 Project Structure
+
+spotify-music-eda/
+│
+├── spotifysongs.csv # Dataset
+├── section06_visualizing_data_solutions.ipynb # Main analysis notebook
+└── README.md
+
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first.
+
+---
+
+## 📜 License
+
+[MIT](LICENSE)
